@@ -3,7 +3,7 @@ A top down platformer computer game where the goal is to dodge obstacles and col
 
 Video Demo: 
 
-<div align="center">
+<div>
       <a href="https://www.youtube.com/watch?v=KWguO6vChPs">
      <img 
       src="https://i.ytimg.com/vi_webp/KWguO6vChPs/mqdefault.webp" 
